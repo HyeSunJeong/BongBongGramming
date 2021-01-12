@@ -31,7 +31,7 @@ h2 {
     padding-left: 100px;
 }
 @media (max-width:800px) {
-    #gird {
+    #grid {
         display: block;
     }
     #grid ul {
